@@ -1,8 +1,13 @@
 {
   "version": 1,
   "sections": {
-    "Новинки": ["villainous"],
-    "Популярные": ["murder-drones", "digital-circus"]
+    "Новинки": [
+      "villainous"
+    ],
+    "Популярные": [
+      "murder-drones",
+      "digital-circus"
+    ]
   },
   "shows": [
     {
@@ -10,23 +15,59 @@
       "title": "Удивительный цифровой цирк",
       "studio": "GLITCH PRODUCTIONS",
       "description": "Сюрреалистическая психологическая комедия о милых мультяшных героях, которые ненавидят свою жизнь и хотят выбраться. Обычная женщина Помни необъяснимым образом оказывается в виртуальной реальности вместе с пятью другими людьми. Теперь им приходится жить по прихоти чудаковатого ИИ и сталкиваться с собственными травмами.",
-      "tags": ["Анимация", "Комедия", "Психологическое"],
+      "tags": [
+        "Анимация",
+        "Комедия",
+        "Психологическое"
+      ],
       "color": "#6C40C9",
       "emoji": "🎪",
       "poster": "posters/digital_circus.jpg",
       "logo": "logos/digital_circus_logo.png",
       "watchNote": "Видео воспроизводятся из официальных публикаций GLITCH Productions на YouTube.",
-      "videos": [{"title": "Официальный трейлер", "youtubeId": "iuaRQ5NQFq8"}],
+      "videos": [
+        {
+          "title": "Официальный трейлер",
+          "youtubeId": "iuaRQ5NQFq8"
+        }
+      ],
       "episodes": [
-        {"title": "Пилот", "youtubeId": "HwAPLk_sQ3w"},
-        {"title": "Серия 2: Candy Carrier Chaos!", "youtubeId": "4ofJpOEXrZs"},
-        {"title": "Серия 3: The Mystery of Mildenhall Manor", "youtubeId": "bKjfw77cxeQ"},
-        {"title": "Серия 4: Fast Food Masquerade", "youtubeId": "Q9KWcWKo2T8"},
-        {"title": "Серия 5: Untitled", "youtubeId": "L4p2gN2CzsA"},
-        {"title": "Серия 6: They All Get Guns", "youtubeId": "mOvhHim78YA"},
-        {"title": "Серия 7: Beach Episode", "youtubeId": "oaOG1xOk7XY"},
-        {"title": "Серия 8: hjsakldfhl", "youtubeId": "DMNlzf8PiEM"},
-        {"title": "Серия 9: Remember", "youtubeId": "PVy-bcTsO8A"}
+        {
+          "title": "Пилот",
+          "youtubeId": "HwAPLk_sQ3w"
+        },
+        {
+          "title": "Серия 2: Candy Carrier Chaos!",
+          "youtubeId": "4ofJpOEXrZs"
+        },
+        {
+          "title": "Серия 3: The Mystery of Mildenhall Manor",
+          "youtubeId": "bKjfw77cxeQ"
+        },
+        {
+          "title": "Серия 4: Fast Food Masquerade",
+          "youtubeId": "Q9KWcWKo2T8"
+        },
+        {
+          "title": "Серия 5: Untitled",
+          "youtubeId": "L4p2gN2CzsA"
+        },
+        {
+          "title": "Серия 6: They All Get Guns",
+          "youtubeId": "mOvhHim78YA"
+        },
+        {
+          "title": "Серия 7: Beach Episode",
+          "youtubeId": "oaOG1xOk7XY"
+        },
+        {
+          "title": "Серия 8: hjsakldfhl",
+          "youtubeId": "DMNlzf8PiEM"
+        },
+        {
+          "title": "Серия 9: Remember",
+          "youtubeId": "PVy-bcTsO8A"
+        }
       ]
     },
     {
@@ -34,29 +75,78 @@
       "title": "Файлы Уолтена",
       "studio": "MARTIN WALLS",
       "description": "Сборник кассет исчезнувшей компании Bunny Smiles Incorporated. Записи знакомят с рестораном Bon’s Burgers и его аниматрониками, а позднее — с проектом перемещения и новым смотрителем хранилища, который пытается узнать больше о компании.",
-      "tags": ["Хоррор", "Аналоговый хоррор", "Мистика"],
+      "tags": [
+        "Хоррор",
+        "Аналоговый хоррор",
+        "Мистика"
+      ],
       "color": "#316B59",
       "emoji": "📼",
       "poster": "posters/walten_files.jpg",
       "watchNote": "Постер предоставлен пользователем. Видео доступны через официальный YouTube-канал автора.",
       "videos": [
-        {"title": "Тизер The Walten Files", "youtubeId": "UVFyX_f7elI"},
-        {"title": "Трейлер сезона 1B", "youtubeId": "txzpiEXhpKM"}
+        {
+          "title": "Тизер The Walten Files",
+          "youtubeId": "UVFyX_f7elI"
+        },
+        {
+          "title": "Трейлер сезона 1B",
+          "youtubeId": "txzpiEXhpKM"
+        }
       ],
       "episodes": [
-        {"title": "Файл 1: Вводная кассета компании", "youtubeId": "uShQXE1Dla8"},
-        {"title": "Файл 2: Проект «Перемещение»", "youtubeId": "iTFnNOL4hwg"},
-        {"title": "Доп. видео: Lucky You", "youtubeId": "K07tQqEDOfQ"},
-        {"title": "Файл 3: BunnyFarm", "youtubeId": "egPO9kUJehU"},
-        {"title": "Доп. видео: Guilty", "youtubeId": "hDTYwsiz09I"},
-        {"title": "Доп. видео: souvenir", "youtubeId": "aN8_0JEYMPI"},
-        {"title": "Доп. видео: Spectacle", "youtubeId": "l0xinyjtozg"},
-        {"title": "Файл 4: CyberFun Tech", "youtubeId": "6gvgYCuQ-n8"},
-        {"title": "Доп. видео: Lacrimosa", "youtubeId": "QJmCtO3szd8"},
-        {"title": "Доп. видео: Hotline", "youtubeId": "oBAEu--KkEU"},
-        {"title": "Доп. видео: Bon’s Burgers — Quality Ad (1974)", "youtubeId": "NAIzoFVU6Zs"},
-        {"title": "Файл 5: Faces of Grief", "youtubeId": "hROQOKB2IvE"},
-        {"title": "Доп. видео: My Soul", "youtubeId": "bb-_4L-1h18"}
+        {
+          "title": "Файл 1: Вводная кассета компании",
+          "youtubeId": "uShQXE1Dla8"
+        },
+        {
+          "title": "Файл 2: Проект «Перемещение»",
+          "youtubeId": "iTFnNOL4hwg"
+        },
+        {
+          "title": "Доп. видео: Lucky You",
+          "youtubeId": "K07tQqEDOfQ"
+        },
+        {
+          "title": "Файл 3: BunnyFarm",
+          "youtubeId": "egPO9kUJehU"
+        },
+        {
+          "title": "Доп. видео: Guilty",
+          "youtubeId": "hDTYwsiz09I"
+        },
+        {
+          "title": "Доп. видео: souvenir",
+          "youtubeId": "aN8_0JEYMPI"
+        },
+        {
+          "title": "Доп. видео: Spectacle",
+          "youtubeId": "l0xinyjtozg"
+        },
+        {
+          "title": "Файл 4: CyberFun Tech",
+          "youtubeId": "6gvgYCuQ-n8"
+        },
+        {
+          "title": "Доп. видео: Lacrimosa",
+          "youtubeId": "QJmCtO3szd8"
+        },
+        {
+          "title": "Доп. видео: Hotline",
+          "youtubeId": "oBAEu--KkEU"
+        },
+        {
+          "title": "Доп. видео: Bon’s Burgers — Quality Ad (1974)",
+          "youtubeId": "NAIzoFVU6Zs"
+        },
+        {
+          "title": "Файл 5: Faces of Grief",
+          "youtubeId": "hROQOKB2IvE"
+        },
+        {
+          "title": "Доп. видео: My Soul",
+          "youtubeId": "bb-_4L-1h18"
+        }
       ]
     },
     {
@@ -64,35 +154,79 @@
       "title": "Дроны убийцы",
       "studio": "GLITCH PRODUCTIONS",
       "description": "История о «полном уничтожении человечества». Саркастичная девушка-рабочий дрон Узи сбегает и знакомится с оптимистичным дроном-демонтажником N, которого отправили её уничтожить. Их отношения обещают стать большой проблемой для всего человечества.",
-      "tags": ["Анимация", "Научная фантастика", "Экшен"],
+      "tags": [
+        "Анимация",
+        "Научная фантастика",
+        "Экшен"
+      ],
       "color": "#255A73",
       "emoji": "🤖",
       "poster": "posters/murder_drones.png",
       "watchNote": "Видео воспроизводятся из официальных публикаций GLITCH Productions на YouTube.",
-      "videos": [{"title": "Официальный трейлер", "youtubeId": "xIebUcOxkMg"}],
+      "videos": [
+        {
+          "title": "Официальный трейлер",
+          "youtubeId": "xIebUcOxkMg"
+        }
+      ],
       "episodes": [
-        {"title": "Эпизод 1: Пилот", "youtubeId": "mImFz8mkaHo"},
-        {"title": "Эпизод 2: Heartbeat", "youtubeId": "7z8DO1KhPFo"},
-        {"title": "Эпизод 3: The Promening", "youtubeId": "djsJqNAGMuY"},
-        {"title": "Эпизод 4: Cabin Fever", "youtubeId": "63bUBEIhpNk"},
-        {"title": "Эпизод 5: Home", "youtubeId": "rk0HBqSqpgg"},
-        {"title": "Эпизод 6: Dead End", "youtubeId": "U7i6fi3z9Nk"},
-        {"title": "Эпизод 7: Mass Destruction", "youtubeId": "EOqw86OGIB0"},
-        {"title": "Эпизод 8: Absolute End", "youtubeId": "caR9ouipm8o"}
-      ]
+        {
+          "title": "Эпизод 1: Пилот",
+          "youtubeId": "mImFz8mkaHo"
+        },
+        {
+          "title": "Эпизод 2: Heartbeat",
+          "youtubeId": "7z8DO1KhPFo"
+        },
+        {
+          "title": "Эпизод 3: The Promening",
+          "youtubeId": "djsJqNAGMuY"
+        },
+        {
+          "title": "Эпизод 4: Cabin Fever",
+          "youtubeId": "63bUBEIhpNk"
+        },
+        {
+          "title": "Эпизод 5: Home",
+          "youtubeId": "rk0HBqSqpgg"
+        },
+        {
+          "title": "Эпизод 6: Dead End",
+          "youtubeId": "U7i6fi3z9Nk"
+        },
+        {
+          "title": "Эпизод 7: Mass Destruction",
+          "youtubeId": "EOqw86OGIB0"
+        },
+        {
+          "title": "Эпизод 8: Absolute End",
+          "youtubeId": "caR9ouipm8o"
+        }
+      ],
+      "logo": "logos/murder_drones_logo.png"
     },
     {
       "id": "villainous",
       "title": "Злодеи: Общий сбор",
       "studio": "ZAMINATION",
       "description": "После череды неудачных карьерных попыток мистер Паззлс получает неожиданное предложение: галактический злодей Большой Плохиш ищет преемника. Вместе с разношёрстной командой злодеев Паззлс должен доказать, что достоин подняться по карьерной лестнице злодейского мира.",
-      "tags": ["Анимация", "Комедия", "Суперзлодеи"],
+      "tags": [
+        "Анимация",
+        "Комедия",
+        "Суперзлодеи"
+      ],
       "color": "#9E3A50",
       "emoji": "🦹",
       "poster": "posters/villainous.webp",
       "watchNote": "Видео добавлено пользователем и воспроизводится через YouTube.",
       "videos": [],
-      "episodes": [{"title": "Пилот: Calling All Villains", "youtubeId": "3AFJtcP2cp0"}]
+      "episodes": [
+        {
+          "title": "Пилот: Calling All Villains",
+          "youtubeId": "3AFJtcP2cp0"
+        }
+      ],
+      "logo": "logos/villainous_logo.webp"
     }
   ]
 }
