@@ -7,6 +7,10 @@
     "Популярные": [
       "murder-drones",
       "digital-circus"
+    ],
+    "Каталог": [
+      "hazbin-hotel",
+      "gameoverse"
     ]
   },
   "shows": [
@@ -227,6 +231,54 @@
         }
       ],
       "logo": "logos/villainous_logo.webp"
+    },
+    {
+      "id": "hazbin-hotel",
+      "title": "Отель Хазбин",
+      "studio": "SPINDLEHORSE · A24",
+      "description": "Чарли Морнингстар, принцесса Ада, открывает отель и пытается доказать, что грешные души могут измениться. Её цель — найти мирный способ сократить перенаселение Ада и остановить ежегодное истребление демонов.",
+      "tags": [
+        "Анимация",
+        "Музыкальная комедия",
+        "Фэнтези",
+        "18+"
+      ],
+      "color": "#8C3157",
+      "emoji": "😈",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/b5b6773ac2fd98d8bf205f3495004426407f8ce5f8bc7b552fce2b2744040b61._SX1080_FMjpg_.jpg",
+      "watchNote": "В FiVi доступен официальный пилот. Полные сезоны смотрите на Prime Video по подписке.",
+      "videos": [],
+      "episodes": [
+        {
+          "title": "Пилот: That's Entertainment",
+          "youtubeId": "Zlmswo0S0e0"
+        }
+      ]
+    },
+    {
+      "id": "gameoverse",
+      "title": "Gameoverse",
+      "studio": "GLITCH PRODUCTIONS",
+      "description": "Приключенческая драма о мирах видеоигр и их гибели. Котодевушка пытается спасти игровые вселенные, помогая злодеям.",
+      "tags": [
+        "Анимация",
+        "Экшен",
+        "Приключения",
+        "Драма",
+        "Видеоигры"
+      ],
+      "color": "#5636A4",
+      "emoji": "🎮",
+      "poster": "https://glitchproductions.store/cdn/shop/files/GOV_Poster_watermark.png?v=1778272473",
+      "logo": "https://static.wixstatic.com/media/1d8dbc_cb20ecc441ea4c7796c3dfe20621e1ff~mv2.png",
+      "watchNote": "Официальный пилот GLITCH доступен в FiVi. Полный сезон пока не выпущен.",
+      "videos": [],
+      "episodes": [
+        {
+          "title": "Пилот",
+          "youtubeId": "1jNk5tmjhpc"
+        }
+      ]
     }
   ]
 }
